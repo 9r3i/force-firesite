@@ -75,6 +75,10 @@ Different from ForceWebsite, Firesite using Firebase ```data.driver``` and ```da
 For more detail see [here](https://github.com/9r3i/force-website) and [here](https://github.com/9r3i/force-sample)
 
 
+# Sample
+Here is the sample view: 
+[https://9r3i.github.io/force-sample/firesite.html](https://9r3i.github.io/force-sample/firesite.html)
+
 
 # Closing
 That's all there is to it. Alhamdulillaah...
