@@ -43,6 +43,14 @@ Configuration will be similiar, just edit the ```app.namespace``` and ```app.hos
 For more detail see [here](https://github.com/9r3i/force-website)
 
 
+# Data Driver
+Because the data storage using firebase, we need to use firebase module, and here we're gonna user ```firebase-moduler```, put it as module:
+```html
+<script type="module" src="https://9r3i.github.io/firebase-moduler/modules/moduler.js"></script>
+```
+And the ```data.driver``` is ready.
+
+
 # Data Setup
 Different from ForceWebsite, Firesite using Firebase ```data.driver``` and ```data.config```, for example:
 ```json
