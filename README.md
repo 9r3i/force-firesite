@@ -83,6 +83,10 @@ Here is the sample view:
 # Closing
 That's all there is to it. Alhamdulillaah...
 
+### Visitors
+[![9r3i/force-firesite Visitors](https://9r3i.web.id/api/views/?user=9r3i-force-firesite&color=51,119,187&register=github.com/9r3i/views/tree/master)](https://github.com/9r3i/wilayah)
+|---|
+| Since January 18th 2023 |
 
 
 
